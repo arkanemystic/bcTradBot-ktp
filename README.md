@@ -7,7 +7,6 @@ Code examples for the **[KTP Blockchain Commitee - Fall 25]**, built with Python
 ```bash
 git clone https://github.com/arkanemystic/bcTradBot.git
 cd bcTradBot
-pip install -r requirements.txt
 ```
 
 ## Usage
